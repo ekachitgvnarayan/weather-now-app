@@ -82,7 +82,7 @@ src/
 
 ```
 
----
+
 
 ## ⚡ Getting Started
 
@@ -105,8 +105,10 @@ npm run dev
 ```bash
 npm run build
 ```
----
+
 🤝 AI Collaboration
+---
+
 This project was built with assistance from ChatGPT to:
 
 Plan the app architecture
@@ -116,6 +118,7 @@ Design UI wireframes
 Implement features like °C/°F toggle and Dark Mode
 
 Handle API integration and error states
+
 ---
 
 📌 View Full ChatGPT Conversation  [Here](https://chatgpt.com/share/68b85c40-294c-8000-9ec1-5578156c626d)
