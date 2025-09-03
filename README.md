@@ -11,7 +11,7 @@ A modern **Weather Application** built with **React (Vite)** and **Material UI**
 ---
 
 ## 🚀 Live Demo
-[**View Deployed App Here**](#) <!-- Add your Vercel/Netlify link after deployment -->
+[**View Deployed App Here**](https://codesandbox.io/p/devbox/fg3gjl) <!-- Add your Vercel/Netlify link after deployment -->
 
 ---
 
@@ -100,7 +100,7 @@ cd weather-now
 npm install
 ```
 3. Run the development server
-``bash
+```bash
 npm run dev
 ```
 4. Build for production
@@ -119,7 +119,7 @@ Implement features like °C/°F toggle and Dark Mode
 
 Handle API integration and error states
 
-📌 View Full ChatGPT Conversation  [Here](#)
+📌 View Full ChatGPT Conversation  [Here](https://chatgpt.com/share/68b85c40-294c-8000-9ec1-5578156c626d)
 
 📜 License
 This project is licensed under the MIT License.
