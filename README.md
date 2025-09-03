@@ -12,7 +12,6 @@ A modern **Weather Application** built with **React (Vite)** and **Material UI**
 ## 🚀 Live Demo
 [**View Deployed App Here**](https://codesandbox.io/p/devbox/fg3gjl) <!-- Add your Vercel/Netlify link after deployment -->
 
----
 
 ## 📸 Screenshots
 
